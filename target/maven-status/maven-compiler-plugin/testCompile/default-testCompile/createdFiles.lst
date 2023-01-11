@@ -1,0 +1,6 @@
+com\restful\booker\cucumber\steps\MyCURDSteps.class
+com\restful\booker\datadriventests\RestfulBookerDataDrivenTest.class
+com\restful\booker\datadriventests\RestfulBookerWithTags.class
+com\restful\booker\cucumber\CucumberRunner.class
+com\restful\booker\cucumber\steps\MyStepdefs.class
+com\restful\booker\testbase\TestBase.class

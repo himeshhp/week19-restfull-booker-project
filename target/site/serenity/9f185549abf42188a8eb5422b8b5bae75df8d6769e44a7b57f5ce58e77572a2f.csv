@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Restful booker with tags","Provide a 404 status code when incorrect HTTP method is used to access resource","SUCCESS","2023-01-11T20:03:03.958Z[Europe/London]","0.0","0.63"
+"Restful booker with tags","This test will provide an error code 403 when user doesn't provide authentication","SUCCESS","2023-01-11T20:03:05.828Z[Europe/London]","0.0","0.78"
